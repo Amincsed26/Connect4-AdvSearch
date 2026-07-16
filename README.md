@@ -1,6 +1,6 @@
 # 🔴🟡 Connect-Four
 
-Web-based Connect Four game with a Flask backend that pits three different game-tree search algorithms — **MinMax**, **Alpha-Beta Pruning**, and **Expectiminimax** — against a 6×7 board, plus a benchmarking suite comparing their performance.
+Web-based Connect Four game with a Flask backend that presents three different game-tree search algorithms — **MinMax**, **Alpha-Beta Pruning**, and **Expectiminimax** — against a 6×7 board, plus a benchmarking suite comparing their performance.
 
 ## ✨ Features
 
